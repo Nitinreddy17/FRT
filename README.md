@@ -1,6 +1,6 @@
 # Future Ready Talent Project
 
-#Access my Future Ready Talent project which is deployed on azure on : https://polite-plant-023b9ea10.1.azurestaticapps.net/
+# Access my Future Ready Talent project which is deployed on azure on : https://polite-plant-023b9ea10.1.azurestaticapps.net/
 
 # This is a Webpage developed using HTML & CSS as part of FUTURE READY TALENT Internship Project
 
